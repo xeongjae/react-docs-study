@@ -1,5 +1,5 @@
 # React DOSC Study
-<img src="https://github.com/user-attachments/assets/db764925-94bc-4210-b2ae-f86ba4dbc278" alt="책 이미지" width="1050" height="450">
+<img src="https://github.com/user-attachments/assets/db764925-94bc-4210-b2ae-f86ba4dbc278" alt="책 이미지" width="1050" height="500">
 <br>
 <br>
 
