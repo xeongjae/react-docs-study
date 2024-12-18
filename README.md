@@ -17,7 +17,6 @@
         <td><B>김성재<B></td>
         <td><B>손명화<B></td>
         <td><B>정찬영<B></td>
-        <td><B>김태욱<B></td>
     </tr>
     <tr align="center">
         <td>
