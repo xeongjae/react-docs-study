@@ -1,6 +1,7 @@
 # React DOSC Study
 <img src="https://github.com/user-attachments/assets/db764925-94bc-4210-b2ae-f86ba4dbc278" alt="책 이미지" width="525" height="340">
 <br>
+
 - 스터디 일시: 매주 화요일 3시 ~ 4시 (24.12.17 ~ 2025.01.14 예정)
 - 스터디 자료: [리액트 공식문서](https://reactjs.org/docs/getting-started.html) | [인프런 강의 - 리액트 공식문서 함께 공부하기](https://www.inflearn.com/course/react-redux-react-router)
 <br>
