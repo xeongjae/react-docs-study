@@ -1,5 +1,6 @@
 # React DOSC Study
-<img src="https://github.com/user-attachments/assets/fc233ccc-66ce-4903-a152-5ccfdf40c574" alt="책 이미지" width="240" height="300">
+<img src="![image](https://github.com/user-attachments/assets/db764925-94bc-4210-b2ae-f86ba4dbc278)
+" alt="책 이미지" width="240" height="300">
 <br>
 <br>
 
